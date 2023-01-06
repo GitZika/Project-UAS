@@ -28,7 +28,7 @@ https://github.com/adam-webdev/16-uas
 
 ### Follow my instagram :
 
-[@adam_webdev](https://www.instagram.com/idkman.its.complicated/)
+[@idkman.its.complicated](https://www.instagram.com/idkman.its.complicated/)
 
 
 
