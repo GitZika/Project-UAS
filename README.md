@@ -19,11 +19,11 @@ Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetikan 
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[ Video Youtube](https://youtu.be/8lO0lSM5lU4)
+[ Video Youtube]()
 
 ### Berikut link repository github :
 
-https://github.com/adam-webdev/16-uas
+https://github.com/GitZika/Project-UAS.git
 
 
 ### Follow my instagram :
