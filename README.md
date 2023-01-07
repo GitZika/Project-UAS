@@ -19,7 +19,7 @@ Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetikan 
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[ Video Youtube]()
+[ Video Youtube](https://www.youtube.com/watch?v=XMAMZ1KdcRQ)
 
 ### Berikut link repository github :
 
